@@ -1,1 +1,4 @@
-# algo-study
+# Algorithm Study Tools
+
+## [Sorting](sorting.md)
+
